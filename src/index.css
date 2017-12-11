@@ -1,0 +1,36 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+
+}
+body {
+
+}
+.container {
+
+  margin: 20px;
+}
+
+.right {
+  float:right;
+}
+.fluid-row {
+  display: flex;
+  align-items: flex-end;
+}
+h1,h2,h3{
+  padding-bottom:0;
+  margin-bottom:0;
+}
+
+.m10{
+  margin-top:10px;
+  margin-bottom:10px;
+}

@@ -1,0 +1,27 @@
+.Post   {
+    max-width: 100%;
+    min-width: 600px;
+    border: 1px solid #eaeaea;
+
+    padding: 10px;
+
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+.message {
+    width:80%;
+}
+.time {
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.views {
+    height:20px;
+}
+
+.published {
+    margin-top:10px;
+    margin-bottom:10px;
+}
