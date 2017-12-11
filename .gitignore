@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+_DS_Store
+_gitignore
